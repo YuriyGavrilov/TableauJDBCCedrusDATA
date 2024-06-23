@@ -1,2 +1,2 @@
 # TableauJDBCCedrusDATA
-Tableau JDBC connector for CedrusDATA or Triono
+Tableau JDBC connector for CedrusDATA or Trino
