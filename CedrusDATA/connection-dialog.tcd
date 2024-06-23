@@ -1,0 +1,12 @@
+<connection-dialog class='CedrusDATA'>
+  <connection-config>
+    <authentication-mode value='Basic' />
+    <authentication-options>
+      <option name="UsernameAndPassword" default="true" value="auth-user-pass" />
+    </authentication-options>
+    <db-name-prompt value="Database: " />
+    <has-pre-connect-database value="false" />
+    <has-schemas value="true" />
+    <port-prompt value="Port: " default="443" />
+  </connection-config>
+</connection-dialog>
